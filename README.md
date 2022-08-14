@@ -24,4 +24,8 @@
 
 #### Solution Architecture
 
-![My Image](SOLUTION_ARCHITECTURE.jpg)
+![Solution Architecture](solution-architecture.jpg)
+
+##### PLATFOTM SERVICE ARCHITECTURE
+
+![Platform Service Architecture](platform-service-architecture)
