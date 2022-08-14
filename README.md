@@ -1,4 +1,4 @@
-# STEP BY STEP: DOTNET Microservices ******
+# STEP BY STEP: DOTNET Microservices
 
 ## What the course covers
 
@@ -14,7 +14,7 @@
 
 ### Microservices: What are they and how are they saving the world?
 
-> > Gather together those things that change for the same reason, and seperate those things that change for different reasons. - Robert C Martin
+> Gather together those things that change for the same reason, and seperate those things that change for different reasons. - Robert C Martin
 
 * Microservices are small (typically 2 weeks of work)
 * Responsible for doing 1 thing well. (doesn't rely too much on other parts of the system)
@@ -28,4 +28,4 @@
 
 ##### PLATFOTM SERVICE ARCHITECTURE
 
-![Platform Service Architecture](platform-service-architecture)
+![Platform Service Architecture](platform-service-architecture.jpg)
