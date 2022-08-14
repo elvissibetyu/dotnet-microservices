@@ -29,3 +29,7 @@
 ##### PLATFOTM SERVICE ARCHITECTURE
 
 ![Platform Service Architecture](platform-service-architecture.jpg)
+
+##### COMMAND SERVICE ARCHITECTURE
+
+![Command Service Architecture](command-service-architecture.jpg)
