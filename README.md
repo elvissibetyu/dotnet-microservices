@@ -24,12 +24,12 @@
 
 #### Solution Architecture
 
-![Solution Architecture](solution-architecture.jpg)
+![Solution Architecture](images/solution-architecture.jpg)
 
 ##### PLATFOTM SERVICE ARCHITECTURE
 
-![Platform Service Architecture](platform-service-architecture.jpg)
+![Platform Service Architecture](images/platform-service-architecture.jpg)
 
 ##### COMMAND SERVICE ARCHITECTURE
 
-![Command Service Architecture](command-service-architecture.jpg)
+![Command Service Architecture](images/command-service-architecture.jpg)
